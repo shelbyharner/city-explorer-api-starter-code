@@ -1,3 +1,5 @@
 'use strict';
 
-module.exports = { };
+const CACHE = {};
+
+module.exports = CACHE;
